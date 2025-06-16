@@ -1,18 +1,18 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en:/en",
-    "/content/wknd-universal/language-masters/en/:/language-masters/en/",
-    "/content/wknd-universal/language-masters/en:/language-masters/en",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/language-masters/placeholders:/language-masters/placeholders.json",
-    "/content/wknd-universal/language-masters/en/placeholders:/language-masters/en/placeholders.json",
-    "/content/wknd-universal/language-masters/en/placeholders:/en/placeholders.json",
-    "/content/wknd-universal.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/wknd-chis/language-masters/en:/",
+    "/content/wknd-chis/language-masters/en:/en",
+    "/content/wknd-chis/language-masters/en/:/language-masters/en/",
+    "/content/wknd-chis/language-masters/en:/language-masters/en",
+    "/content/wknd-chis/configuration:/.helix/config.json",
+    "/content/wknd-chis/metadata:/metadata.json",
+    "/content/wknd-chis/redirects:/redirects.json",
+    "/content/wknd-chis/language-masters/placeholders:/language-masters/placeholders.json",
+    "/content/wknd-chis/language-masters/en/placeholders:/language-masters/en/placeholders.json",
+    "/content/wknd-chis/language-masters/en/placeholders:/en/placeholders.json",
+    "/content/wknd-chis.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-universal/"
+    "/content/wknd-chis/"
   ]
 }
