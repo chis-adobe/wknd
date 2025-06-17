@@ -4,6 +4,7 @@
     "/content/wknd-chis/language-masters/en:/en",
     "/content/wknd-chis/language-masters/en/:/language-masters/en/",
     "/content/wknd-chis/language-masters/en:/language-masters/en",
+    "/content/wknd-chis/index:/index",
     "/content/wknd-chis/configuration:/.helix/config.json",
     "/content/wknd-chis/metadata:/metadata.json",
     "/content/wknd-chis/redirects:/redirects.json",
